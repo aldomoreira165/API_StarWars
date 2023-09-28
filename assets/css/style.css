@@ -1,0 +1,16 @@
+#lista-elementos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-element{
+    margin: 12px;
+    height: 400px;
+}
+
+.card-img{
+    margin: 10px;
+    height: 205px;
+    width: 240px;
+}
